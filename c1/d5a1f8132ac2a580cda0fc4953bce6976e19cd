@@ -1,0 +1,19 @@
+bin/fm-spawn.sh
+  s_74a4fc1bc2ed1b::t_7e452a6f29aa73 796-799
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c1d5a1f8132ac2a580cda0fc4953bce6976e19cd",
+  "prompts": {},
+  "sessions": {
+    "s_74a4fc1bc2ed1b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "04f4fba6-2651-4196-859b-cfe36f32dafb",
+        "model": "claude-fable-5"
+      },
+      "human_author": "JamesWU <wuyuwen0@gmail.com>"
+    }
+  }
+}
