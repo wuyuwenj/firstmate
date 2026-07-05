@@ -1,0 +1,23 @@
+CONTRIBUTING.md
+  s_a7f4695f6a54ad::t_fc377c142332e1 95
+.omc/project-memory.json
+  s_a7f4695f6a54ad::t_94d5c7ece56f97 104-106,110-112
+.omc/sessions/5afa19dd-c894-4056-9ed5-3d92bb55614e.json
+  s_a7f4695f6a54ad::t_e28d986535cdfc 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "64dffd2d1b90afecb7a631581dc95ff980b356c3",
+  "prompts": {},
+  "sessions": {
+    "s_a7f4695f6a54ad": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5afa19dd-c894-4056-9ed5-3d92bb55614e",
+        "model": "claude-fable-5"
+      },
+      "human_author": "JamesWU <wuyuwen0@gmail.com>"
+    }
+  }
+}
