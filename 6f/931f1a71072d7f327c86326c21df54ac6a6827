@@ -1,0 +1,19 @@
+.omc/sessions/9c3ac52d-ef0f-40cd-8c0c-58ca228933b4.json
+  s_db9f601993a7e4::t_87239970c7f6b1 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6f931f1a71072d7f327c86326c21df54ac6a6827",
+  "prompts": {},
+  "sessions": {
+    "s_db9f601993a7e4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c3ac52d-ef0f-40cd-8c0c-58ca228933b4",
+        "model": "unknown"
+      },
+      "human_author": "JamesWU <wuyuwen0@gmail.com>"
+    }
+  }
+}
