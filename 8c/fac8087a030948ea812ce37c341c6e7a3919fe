@@ -1,0 +1,34 @@
+CONTRIBUTING.md
+  s_bcd086c9766e13::t_0646e9e2950eed 94
+docs/herdr-backend.md
+  s_bcd086c9766e13::t_fdf682b1ae9d7b 38
+  s_bcd086c9766e13::t_0d0c86b70cbf16 380-381
+.omc/project-memory.json
+  s_bcd086c9766e13::t_be270180e9b4fe 1-117
+.omc/sessions/7f17c099-4eb3-4bce-9b61-817599c8deea.json
+  s_16faf165faa7a6::t_54e8d4337a9d56 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8cfac8087a030948ea812ce37c341c6e7a3919fe",
+  "prompts": {},
+  "sessions": {
+    "s_16faf165faa7a6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7f17c099-4eb3-4bce-9b61-817599c8deea",
+        "model": "unknown"
+      },
+      "human_author": "JamesWU <wuyuwen0@gmail.com>"
+    },
+    "s_bcd086c9766e13": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fd2f88f4-45cc-47d6-87f3-70c52b90bb46",
+        "model": "claude-fable-5"
+      },
+      "human_author": "JamesWU <wuyuwen0@gmail.com>"
+    }
+  }
+}
