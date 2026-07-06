@@ -1,3 +1,5 @@
+tests/fm-backend-autodetect-smoke.test.sh
+  s_7c628bba666f27::t_0cc285caa9b06e 53-55
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -9,6 +11,14 @@
       "agent_id": {
         "tool": "claude",
         "id": "43cf682c-8ee6-4433-a37d-5232c5f5b585",
+        "model": "claude-fable-5"
+      },
+      "human_author": "JamesWU <wuyuwen0@gmail.com>"
+    },
+    "s_7c628bba666f27": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4e953d5e-11a0-4431-a53d-d49691a212b8",
         "model": "claude-fable-5"
       },
       "human_author": "JamesWU <wuyuwen0@gmail.com>"
