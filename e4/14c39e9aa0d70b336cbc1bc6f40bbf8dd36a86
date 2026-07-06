@@ -1,0 +1,27 @@
+.omc/sessions/9750a9ca-e9da-4740-934e-9442635560b2.json
+  s_cc53cddef31974::t_b81cd2790338a6 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e414c39e9aa0d70b336cbc1bc6f40bbf8dd36a86",
+  "prompts": {},
+  "sessions": {
+    "s_74a4fc1bc2ed1b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "04f4fba6-2651-4196-859b-cfe36f32dafb",
+        "model": "claude-fable-5"
+      },
+      "human_author": "JamesWU <wuyuwen0@gmail.com>"
+    },
+    "s_cc53cddef31974": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9750a9ca-e9da-4740-934e-9442635560b2",
+        "model": "unknown"
+      },
+      "human_author": "JamesWU <wuyuwen0@gmail.com>"
+    }
+  }
+}

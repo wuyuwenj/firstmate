@@ -1,0 +1,19 @@
+tests/fm-spawn-symlink-wait.test.sh
+  s_55b197c97eea74::t_a3c91d4757726c 1-94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ddd0eac64c6cc8444e817eda6085911118ebe10a",
+  "prompts": {},
+  "sessions": {
+    "s_55b197c97eea74": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8f092b0d-63ee-4687-b8dc-b833a9bc359f",
+        "model": "claude-fable-5"
+      },
+      "human_author": "JamesWU <wuyuwen0@gmail.com>"
+    }
+  }
+}

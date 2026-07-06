@@ -1,0 +1,19 @@
+.gitignore
+  s_7afa2b3b46dfa9::t_401a518afa8aae 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "212454759aa97c27b1bd6fad13c8b0c0945c8a03",
+  "prompts": {},
+  "sessions": {
+    "s_7afa2b3b46dfa9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "41769a06-ffef-473c-ab64-f925c64ad71b",
+        "model": "claude-fable-5"
+      },
+      "human_author": "JamesWU <wuyuwen0@gmail.com>"
+    }
+  }
+}
